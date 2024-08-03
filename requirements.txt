@@ -1,0 +1,6 @@
+crewai
+langchain
+reportlab
+requests
+PyPDF2
+pdfplumber
